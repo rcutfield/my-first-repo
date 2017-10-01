@@ -1,3 +1,3 @@
-#My first project
+# My first project
 
-A simple git repository to store some file
+A simple git repository to store some file. Added some text. 
